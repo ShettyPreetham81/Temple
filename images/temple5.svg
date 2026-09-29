@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f43f5e" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#0f172a" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" rx="24" fill="url(#g)"/>
+  <circle cx="680" cy="120" r="86" fill="#ffffff" opacity="0.12"/>
+  <circle cx="120" cy="420" r="120" fill="#ffffff" opacity="0.10"/>
+  <text x="40" y="420" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#ffffff" opacity="0.95">Shri Shakti Temple</text>
+  <text x="40" y="460" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#ffffff" opacity="0.75">Pooja " Seva " Rooms nearby</text>
+</svg>
+
